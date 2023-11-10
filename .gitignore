@@ -1,0 +1,23 @@
+### word cloud picture ###
+comment_word.png
+all_word.png
+
+### The testing dataset ###
+NEW评论.xlsx
+
+### The model file ###
+best_model.pkl
+
+### The result of analysis ###
+评论情感分析.xlsx
+
+### The picture in comments ###
+photo/
+
+### python environment ###
+venv/
+
+### pycharm project files ###
+.idea/
+
+
